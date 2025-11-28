@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "make build",
+      "type": "shell",
+      "command": "echo 'Iniciando build...' && sleep 15 && echo 'Build completo!'",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "build rápido",
+      "type": "shell",
+      "command": "echo 'Build rápido - não abre o jogo'",
+      "problemMatcher": []
+    }
+  ]
+}
