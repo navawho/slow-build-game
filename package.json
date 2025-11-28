@@ -4,6 +4,10 @@
   "description": "Jogue cobrinha enquanto aguarda builds lentos",
   "version": "1.0.0",
   "publisher": "Navawho",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navawho/slow-build-game.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
